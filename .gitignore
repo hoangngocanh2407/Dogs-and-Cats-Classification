@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Extracted dataset and generated model artifacts
+DaC.v3i.coco/
+artifacts/
+*.joblib
+*.pkl
